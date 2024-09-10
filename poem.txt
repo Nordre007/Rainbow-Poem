@@ -6,6 +6,7 @@ Unicorn
 Orange
 blue 
 Green
+Indigo
 yellow
 Unicorn
 Red
